@@ -1,4 +1,4 @@
 # myNodeSass
 stepByStep
 
-1. Instalar [ https://nodejs.org/en:Link node:Link]
+1. Instalar [NodeJS](https://nodejs.org/).
